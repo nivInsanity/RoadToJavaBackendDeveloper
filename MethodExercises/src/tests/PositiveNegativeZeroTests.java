@@ -35,6 +35,6 @@ public class PositiveNegativeZeroTests {
         String zero = PositiveNegativeZero.checkNumber(0);
 
         log.info("The value of zeroTest is: {}", zero);
-        assertEquals(zero, zero);
+        assertEquals("zero", zero);
     }
 }
