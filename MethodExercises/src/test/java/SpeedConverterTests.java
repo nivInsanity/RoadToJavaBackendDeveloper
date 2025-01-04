@@ -1,6 +1,3 @@
-package tests;
-
-import main.SpeedConverter;
 import org.junit.Assert;
 import org.junit.Test;
 import org.slf4j.Logger;

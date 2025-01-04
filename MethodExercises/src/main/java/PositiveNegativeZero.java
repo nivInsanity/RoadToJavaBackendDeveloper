@@ -1,5 +1,3 @@
-package main;
-
 public class PositiveNegativeZero {
     public static String checkNumber (int number) {
         if (number > 0) {

@@ -1,12 +1,8 @@
-package main;
-
 public class DecimalComparator {
     public static boolean areEqualByThreeDecimalPlaces(double firstNumber, double secondNumber) {
-        firstNumber = Math.floor(firstNumber * 1000) / 1000;
-        secondNumber =  Math.floor(secondNumber * 1000) / 1000;
+        int firstTruncated = (int) (firstNumber * 1000);
+        int secondTruncated = (int) (secondNumber * 1000);
 
-        return firstNumber == secondNumber;
-
+        return firstTruncated == secondTruncated;
     }
-
 }

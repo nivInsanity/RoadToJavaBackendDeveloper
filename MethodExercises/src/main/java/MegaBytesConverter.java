@@ -1,5 +1,3 @@
-package main;
-
 public class MegaBytesConverter {
     public static String printMegaBytesAndKiloBytes(int kiloBytes) {
         if (kiloBytes < 0) {
