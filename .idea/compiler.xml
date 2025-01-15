@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="MethodChallenge" />
         <module name="MethodExercises" />
+        <module name="StreamsExercises" />
       </profile>
     </annotationProcessing>
   </component>
