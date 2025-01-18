@@ -12,7 +12,7 @@
   <modules>
     <module>MethodExercises</module>
     <module>MethodChallenge</module>
-      <module>StreamsExercises</module>
+    <module>StreamsExercises</module>
   </modules>
 
   <dependencies>
