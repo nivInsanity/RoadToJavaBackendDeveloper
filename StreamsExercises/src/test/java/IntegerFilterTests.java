@@ -1,4 +1,6 @@
 import java.util.List;
+import java.util.stream.IntStream;
+
 import org.junit.Assert;
 import org.junit.Test;
 import org.slf4j.Logger;
@@ -10,7 +12,9 @@ public class IntegerFilterTests {
 
     @Test
     public void checkEvenList() {
-        List<Integer> evenList = IntegerFilter.getEvenInteger();
+        List<Integer> integers = IntStream.rangeClosed(1, 20).boxed().toList();
+
+        List<Integer> evenList = IntegerFilter.getEvenInteger(integers);
 
         log.info("Even numbers are: {}", evenList);
 
