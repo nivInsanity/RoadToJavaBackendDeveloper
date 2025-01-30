@@ -6,9 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="ControlFlowChallenges" />
+        <module name="StreamsExercises" />
         <module name="MethodChallenge" />
         <module name="MethodExercises" />
-        <module name="StreamsExercises" />
       </profile>
     </annotationProcessing>
   </component>
