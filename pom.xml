@@ -12,6 +12,7 @@
     <module>MethodChallenge</module>
     <module>StreamsExercises</module>
     <module>ControlFlowChallenges</module>
+    <module>ControlFlowExercises</module>
   </modules>
 
   <dependencies>
