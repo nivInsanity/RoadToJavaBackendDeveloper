@@ -13,6 +13,8 @@
     <module>StreamsExercises</module>
     <module>ControlFlowChallenges</module>
     <module>ControlFlowExercises</module>
+    <module>InterfacesExercise</module>
+    <module>InheritanceExercise</module>
   </modules>
 
   <dependencies>

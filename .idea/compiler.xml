@@ -7,10 +7,12 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ControlFlowExercises" />
-        <module name="ControlFlowChallenges" />
         <module name="StreamsExercises" />
+        <module name="InheritanceExercise" />
+        <module name="ControlFlowChallenges" />
         <module name="MethodChallenge" />
         <module name="MethodExercises" />
+        <module name="InterfacesExercise" />
       </profile>
     </annotationProcessing>
   </component>
