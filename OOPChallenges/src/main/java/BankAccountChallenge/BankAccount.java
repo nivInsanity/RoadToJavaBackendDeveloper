@@ -1,6 +1,13 @@
 package BankAccountChallenge;
 
 public class BankAccount {
+
+    private int accountNumber;
+    private double accountBalance;
+    private String customerName;
+    private String email;
+    private int phoneNumber;
+
     public int getAccountNumber() {
         return accountNumber;
     }
@@ -41,11 +48,7 @@ public class BankAccount {
         this.phoneNumber = phoneNumber;
     }
 
-    private int accountNumber;
-    private double accountBalance;
-    private String customerName;
-    private String email;
-    private int phoneNumber;
+
 
 
     public double depositFunds(double depositAmount) {
