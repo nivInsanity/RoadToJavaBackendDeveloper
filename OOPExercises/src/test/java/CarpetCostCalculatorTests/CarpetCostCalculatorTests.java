@@ -40,5 +40,4 @@ public class CarpetCostCalculatorTests {
 
         Assertions.assertEquals(36.8, calculator.getTotalCost(), 0.01);
     }
-
 }
