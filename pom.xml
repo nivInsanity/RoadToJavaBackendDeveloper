@@ -15,7 +15,7 @@
     <module>ControlFlowExercises</module>
     <module>InterfacesExercise</module>
     <module>InheritanceExercise</module>
-      <module>OOPChallenges</module>
+    <module>OOPChallenges</module>
     <module>OOPExercises</module>
   </modules>
 
@@ -39,6 +39,14 @@
       <groupId>ch.qos.logback</groupId>
       <artifactId>logback-classic</artifactId>
       <version>1.2.6</version>
+    </dependency>
+
+    <!-- Lombok -->
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.18.30</version>
+      <scope>provided</scope>
     </dependency>
 
     <!-- JUnit Jupiter API (JUnit 5) -->
