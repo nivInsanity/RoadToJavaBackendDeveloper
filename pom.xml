@@ -17,6 +17,8 @@
     <module>InheritanceExercise</module>
     <module>OOPChallenges</module>
     <module>OOPExercises</module>
+    <module>ArrayChallenges</module>
+    <module>ArrayExercises</module>
   </modules>
 
   <dependencies>

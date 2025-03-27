@@ -11,6 +11,8 @@
         <module name="OOPExercises" />
         <module name="StreamsExercises" />
         <module name="InheritanceExercise" />
+        <module name="ArrayExercises" />
+        <module name="ArrayChallenges" />
         <module name="ControlFlowChallenges" />
         <module name="MethodChallenge" />
         <module name="InterfacesExercise" />
