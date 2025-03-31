@@ -14,6 +14,7 @@
         <module name="ArrayExercises" />
         <module name="ArrayChallenges" />
         <module name="ControlFlowChallenges" />
+        <module name="ListsChallenges" />
         <module name="MethodChallenge" />
         <module name="InterfacesExercise" />
         <module name="MethodExercises" />
