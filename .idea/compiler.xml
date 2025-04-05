@@ -7,16 +7,17 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="InheritanceExercise" />
+        <module name="ListsExercises" />
+        <module name="ArrayExercises" />
+        <module name="ArrayChallenges" />
+        <module name="MethodChallenge" />
+        <module name="InterfacesExercise" />
         <module name="ControlFlowExercises" />
         <module name="OOPExercises" />
         <module name="StreamsExercises" />
-        <module name="InheritanceExercise" />
-        <module name="ArrayExercises" />
-        <module name="ArrayChallenges" />
         <module name="ControlFlowChallenges" />
         <module name="ListsChallenges" />
-        <module name="MethodChallenge" />
-        <module name="InterfacesExercise" />
         <module name="MethodExercises" />
         <module name="OOPChallenges" />
       </profile>
