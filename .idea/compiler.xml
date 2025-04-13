@@ -17,6 +17,8 @@
         <module name="OOPExercises" />
         <module name="StreamsExercises" />
         <module name="ControlFlowChallenges" />
+        <module name="AbstractionAndInterfacesChallenges" />
+        <module name="AbstractionAndInterfacesExercises" />
         <module name="ListsChallenges" />
         <module name="MethodExercises" />
         <module name="OOPChallenges" />
