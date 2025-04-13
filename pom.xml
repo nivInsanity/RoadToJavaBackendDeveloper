@@ -19,8 +19,10 @@
     <module>OOPExercises</module>
     <module>ArrayChallenges</module>
     <module>ArrayExercises</module>
-      <module>ListsChallenges</module>
+    <module>ListsChallenges</module>
     <module>ListsExercises</module>
+    <module>AbstractionAndInterfacesChallenges</module>
+    <module>AbstractionAndInterfacesExercises</module>
   </modules>
 
   <dependencies>
