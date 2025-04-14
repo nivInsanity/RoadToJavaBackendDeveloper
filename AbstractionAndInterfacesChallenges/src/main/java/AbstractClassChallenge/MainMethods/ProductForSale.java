@@ -1,4 +1,4 @@
-package AbstractClassChallenge;
+package AbstractClassChallenge.MainMethods;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
@@ -20,7 +20,11 @@ public abstract class ProductForSale {
     }
 
     public void printPricedItem(int quantity) {
-        System.out.printf("%d quantity of item %s has a price of %f", quantity, type, getSalesPrice(quantity));
+        System.out.printf("%d x %s @ %.2f = %.2f PLN\n",
+                quantity,
+                type,
+                price.doubleValue(),
+                getSalesPrice(quantity).doubleValue());
     }
 
     public abstract void showDetails();
