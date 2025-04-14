@@ -21,8 +21,8 @@
     <module>ArrayExercises</module>
     <module>ListsChallenges</module>
     <module>ListsExercises</module>
-    <module>AbstractionAndInterfacesChallenges</module>
     <module>AbstractionAndInterfacesExercises</module>
+    <module>AbstractionAndInterfacesChallenges</module>
   </modules>
 
   <dependencies>
