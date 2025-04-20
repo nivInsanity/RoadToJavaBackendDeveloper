@@ -1,3 +1,5 @@
+package SearchTreeExercise;
+
 public class SearchTree implements NodeList {
 
     private ListItem root = null;

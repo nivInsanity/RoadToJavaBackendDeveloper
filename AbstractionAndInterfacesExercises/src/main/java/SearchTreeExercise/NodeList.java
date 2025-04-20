@@ -1,3 +1,5 @@
+package SearchTreeExercise;
+
 public interface NodeList {
     ListItem getRoot();
     boolean addItem(ListItem item);

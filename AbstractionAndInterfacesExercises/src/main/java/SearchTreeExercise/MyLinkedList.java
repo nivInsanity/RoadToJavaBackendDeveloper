@@ -1,3 +1,5 @@
+package SearchTreeExercise;
+
 public class MyLinkedList implements NodeList {
 
     private ListItem root = null;
